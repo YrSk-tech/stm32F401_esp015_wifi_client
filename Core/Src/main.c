@@ -32,11 +32,11 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define WIFI_SSID "iHouseBedroom"
-#define WIFI_PSWD "N109876543210a"
-#define STATIC_IP "192.168.88.200"
-#define GATEWAY "192.168.88.1"
-#define SUBNET "255.255.255.0"
+#define WIFI_SSID ""
+#define WIFI_PSWD ""
+#define STATIC_IP ""
+#define GATEWAY ""
+#define SUBNET ""
 
 /* USER CODE END PD */
 
